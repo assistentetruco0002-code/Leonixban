@@ -1,0 +1,10 @@
+<svg width="240" height="60" viewBox="0 0 240 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(5, 6)">
+    <rect width="48" height="48" rx="14" fill="#2563eb" />
+    <path d="M24 12L35 21L31 38L24 42L17 38L13 21L24 12Z" fill="white" />
+    <path d="M24 17L30 24L24 37L18 24L24 17Z" fill="#1e3a8a" />
+  </g>
+  <text x="64" y="38" font-family="'Montserrat', system-ui, sans-serif" font-weight="900" font-size="22" letter-spacing="-0.02em" fill="#0f172a">
+    Leonix<tspan fill="#2563eb">Bank</tspan>
+  </text>
+</svg>

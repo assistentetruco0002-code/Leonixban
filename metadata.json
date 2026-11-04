@@ -1,0 +1,6 @@
+{
+  "name": "MAIS Card - Aqui você é MAIS",
+  "description": "Landing page oficial do MAIS Card: o cartão de crédito e carteira digital sem anuidade, com aproximação, MAIS Parcelado e recompensas em +Coins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,31 @@
+<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="leonixBlueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+    <linearGradient id="leonixSilverGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e2e8f0" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Geometric Lion/Shield Emblem -->
+  <g transform="translate(10, 10)">
+    <rect width="80" height="80" rx="22" fill="url(#leonixBlueGrad)" />
+    <!-- Dynamic geometric crown / facets of the lion symbol -->
+    <path d="M40 20L58 35L52 64L40 70L28 64L22 35L40 20Z" fill="white" fill-opacity="0.95" />
+    <path d="M40 28L50 40L40 62L30 40L40 28Z" fill="url(#leonixBlueGrad)" />
+    <circle cx="40" cy="45" r="4" fill="white" />
+    <path d="M22 35L40 45L28 64Z" fill="white" fill-opacity="0.3" />
+    <path d="M58 35L40 45L52 64Z" fill="white" fill-opacity="0.3" />
+  </g>
+
+  <!-- Typography: LeonixBank -->
+  <text x="105" y="60" font-family="'Montserrat', 'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="38" letter-spacing="-0.03em" fill="#0f172a">
+    Leonix<tspan fill="#2563eb">Bank</tspan>
+  </text>
+  <text x="108" y="77" font-family="'Montserrat', system-ui, sans-serif" font-weight="700" font-size="11" letter-spacing="0.18em" fill="#64748b">
+    BANCO DIGITAL
+  </text>
+</svg>
